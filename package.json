@@ -1,0 +1,17 @@
+{
+  "name": "atividade-api-rest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Este projeto é um esboço de API RESTFUL utilizando node.js com Express, e memory-cache.",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.18.3",
+    "memory-cache": "^0.2.0"
+  },
+  "devDependencies": {}
+}
